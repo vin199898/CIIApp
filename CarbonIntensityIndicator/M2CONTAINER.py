@@ -13,7 +13,7 @@ def app():
     
     
     
-    st.image("container.jpg")
+    st.image("CarbonIntensityIndicator/container.jpg")
     st.subheader('Enter Vessel Data')
     
    # FUNCTION
