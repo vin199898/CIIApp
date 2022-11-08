@@ -8,7 +8,7 @@ import time
 
 
 
-model = pickle.load(open('C:/Users/harvi/testing/modeltankernew.sav', 'rb'))
+model = pickle.load(open('modeltankernew.sav', 'rb'))
 
 def app():
     st.image('oiltanker.jpg')
