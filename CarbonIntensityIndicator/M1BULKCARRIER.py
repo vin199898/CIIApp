@@ -12,7 +12,7 @@ import time
 model =  pickle.load(open('CarbonIntensityIndicator/modelbulk2.sav', 'rb'))
 
 def app():
-    st.image('bulkcarrier.jpg')
+    st.image('CarbonIntensityIndicator/bulkcarrier.jpg')
     st.subheader('Enter Vessel Data')
     
     
