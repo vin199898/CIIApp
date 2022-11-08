@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title('Introduction to CII') 
 
-st.image(('vessel.jpg'))
+st.image(('CarbonIntensityIndicator/vessel.jpg'))
 st.markdown("The IMO, set a Greenhouse Gas Reduction Strategy in 2018. One of the goals is to achieve a reduction in carbon intensity of 40% by 2030 with the level at 2008 being the baseline. In 2021, the IMO introdiced CII, a strategy to cut down the shipping industry's carbon footprint. This new strategy will put increasing pressure on all industry actors and require ship owners to report their sustainable operations annually The Carbon Intensity Indicator (CII) is a rating system for ships that the International Maritime Organization (IMO) developed. This will be a mandatory measure under MARPOL Annex VI, which comes into force in 2023. ")
 
 col1, col2 = st.columns([1,1])
