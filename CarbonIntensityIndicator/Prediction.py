@@ -65,6 +65,6 @@ elif choose == "Introduction":
 elif choose == "About":
     st.title("About Application")
     
-    st.markdown("The CII Prediction tool has been build to allow shipowners/ship operators to predict CII rating of their fleet by utilizing machine learning. Historical data of the global fleet, consisting of over 10,000 vessels have been extracted to predict  fuel consumption of various ship types. The algorithm is built using random forest regressor. The CII predictor tool is build based on IMO resolutions MEPC.352(78), MEPC.353(78) and MEPC.354(78) and does not take into account for 2022 interim guidelines on correction factors and voyage adjustments for CII calculations. ")
+    st.markdown("The CII Prediction app was developed to allow shipowners/ship operators to predict CII rating of their fleet by utilizing machine learning. Historical data of the global fleet, consisting of over 10,000 vessels have been extracted to predict  fuel consumption of various ship types. The algorithm is built using random forest regressor. The CII predictor tool is build based on IMO resolutions MEPC.352(78), MEPC.353(78) and MEPC.354(78) and does not take into account for 2022 interim guidelines on correction factors and voyage adjustments for CII calculations. ")
 
 
