@@ -8,6 +8,7 @@ from streamlit_option_menu import option_menu
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
             
             </style>
             """
