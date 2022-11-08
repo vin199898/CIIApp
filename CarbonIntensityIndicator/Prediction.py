@@ -3,9 +3,7 @@ from Multiapp import MultiApp
 import  M1BULKCARRIER, M2CONTAINER, M3TANKER# import your app modules here
 from streamlit_option_menu import option_menu
 
-hide_st_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
+
 
 
 
