@@ -9,7 +9,7 @@ import time
 
 
 def app():
-    model = pickle.load(open('C:/Users/harvi/testing/modelcontainer.sav', 'rb'))
+    model = pickle.load(open('modelcontainer.sav', 'rb'))
     
     
     
