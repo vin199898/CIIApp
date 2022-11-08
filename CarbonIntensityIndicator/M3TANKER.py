@@ -11,7 +11,7 @@ import time
 model = pickle.load(open('CarbonIntensityIndicator/modeltankernew.sav', 'rb'))
 
 def app():
-    st.image('oiltanker.jpg')
+    st.image('CarbonIntensityIndicator/oiltanker.jpg')
     st.subheader('Enter Vessel Data')
     
    # FUNCTION
