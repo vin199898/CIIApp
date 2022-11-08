@@ -40,9 +40,10 @@ elif choose == "Introduction":
         st.image('CarbonIntensityIndicator/cii.jpg',caption='CII required values to get increasing stringent')
         
         with st.expander("References"):
-            st.write("""
-                https://www.dnv.com/maritime/insights/topics/CII-carbon-intensity-indicator/index.html""")
+            st.write("https://www.dnv.com/maritime/insights/topics/CII-carbon-intensity-indicator/index.html")
             st.write("https://marine-digital.com/article_cii")
+               
+           
                      
             
             
