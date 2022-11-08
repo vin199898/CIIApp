@@ -9,7 +9,7 @@ import time
 
 
 
-model =  pickle.load(open('CIIApp/CarbonIntensityIndicator/modelbulk2.sav', 'rb'))
+model =  pickle.load(open('CarbonIntensityIndicator/modelbulk2.sav', 'rb'))
 
 def app():
     st.image('bulkcarrier.jpg')
