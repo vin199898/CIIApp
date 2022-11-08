@@ -8,6 +8,8 @@ hide_st_style = """
             #MainMenu {visibility: hidden;}
 
 
+
+
 choose = option_menu(None,["Introduction", "CII Prediction", "About"],orientation = 'horizontal')
 
 if choose == "CII Prediction":
