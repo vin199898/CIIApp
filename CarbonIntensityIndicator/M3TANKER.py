@@ -8,7 +8,7 @@ import time
 
 
 
-model = pickle.load(open('modeltankernew.sav', 'rb'))
+model = pickle.load(open('CIIApp/CarbonIntensityIndicator/modeltankernew.sav', 'rb'))
 
 def app():
     st.image('oiltanker.jpg')
